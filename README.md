@@ -1,5 +1,5 @@
 <h1 align="center"> Traffic Signs Recognition <h1/>
-<p><img src="https://miro.medium.com/max/1400/1*cedXXFQKOjUhzr7JWHKRmQ.gif" alt="Car Signs" align="center"></p>
+<p><img src="https://miro.medium.com/max/1400/1*cedXXFQKOjUhzr7JWHKRmQ.gif" width = '100%' height = '100%' align="center"></p>
 
 
 ## Table of contents
